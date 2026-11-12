@@ -5,8 +5,6 @@
 - **Скрипт:** [Code.gs](Code.gs) — откройте и нажмите кнопку «Copy raw file» (значок копирования) или «Download raw file» справа над кодом.
 - **Весь архив:** [Download ZIP](https://github.com/nokavan/-/archive/refs/heads/main.zip)
 
-# Синхронизация остатков ВБ / Озон / Яндекс Маркет через Google Таблицу
-
 ## Установка (около 10 минут)
 
 1. Создайте новую Google Таблицу.
